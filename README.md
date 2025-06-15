@@ -2,7 +2,7 @@
 
 This project aims to build an AI-powered system that captures the emotional trends of the financial market using Natural Language Processing (NLP) and sentiment analysis. By analyzing news articles, social media posts, and real-time stock data, the system predicts future market behavior influenced by emotional trends such as fear, greed, and optimism.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ai-financial-intuition/
@@ -14,13 +14,13 @@ ai-financial-intuition/
 └── README.md            # This file
 ```
 
-## 🔍 Features
+##  Features
 
 - Real-time financial sentiment analysis from news and tweets
 - Price trend prediction models using sentiment scores
 - Visualizations of market sentiment over time
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - Python
 - Transformers (BERT/RoBERTa)
@@ -29,12 +29,18 @@ ai-financial-intuition/
 - BeautifulSoup (web scraping)
 - Matplotlib / Seaborn
 
-## 📈 Goal
+##  Goal
 
 Help users, analysts, and traders understand the emotional state of the market and make more intuitive decisions.
 
-## 🧠 Future Plans
+##  Future Plans
 
 - Add reinforcement learning for strategy planning
 - Integrate with Telegram/Slack for alerts
 - Deploy on Streamlit or Gradio
+
+
+
+##  License
+
+This repository is released under the MIT License.
